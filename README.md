@@ -2,7 +2,7 @@
 
 
 
-<img src="http://img1.vued.vanthink.cn/vued0366b8d467968db7b4e9055288972c4e.png" width="240" />
+<span style="font-size:100em;">⚠️</span>
 
-a weex plugin to support svg for Web/iOS/Andoid
+This repository has been moved to [weex-svg](https://github.com/weex-plugins/weex-svg).
 
